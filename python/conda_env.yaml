@@ -1,0 +1,9 @@
+channels:
+  - defaults
+dependencies:
+  - python
+  - pyqtgraph
+  - pyqt
+  - pyqtwebengine
+  - pyopengl
+  - pyserial

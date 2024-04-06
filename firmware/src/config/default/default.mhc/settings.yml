@@ -1,0 +1,14 @@
+configName: default
+folderName: cdc_com_port
+format_version: v1.0
+frameworkPath: ../../../../../../Microchip/harmony
+processor: ATSAML21E16B
+projectName: cdc_com_port
+settings:
+  PackageFilter: bsp;core;core_apps_sam_l21;csp;dev_packs;harmony-services;quick_docs;usb
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAML21_DFP\3.7.217\saml21b\atdf\ATSAML21E16B.atdf
