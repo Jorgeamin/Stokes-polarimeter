@@ -1,0 +1,74 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "del Río-Lima"
+  given-names: "Alejandra"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Gutiérrez-Valdés"
+  given-names: "Andrés"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Mojica-Casique"
+  given-names: "Cristian"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Ballesteros-Flores"
+  given-names: "Fernando"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Villanueva-Reyes"
+  given-names: "Itzel Alejandra"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Colín-Rodríguez"
+  given-names: "Ricardo"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Gardea-Flores"
+  given-names: "Carlos Alberto"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Poveda-Cuevas"
+  given-names: "Freddy Jackson"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Seman"
+  given-names: "Jorge Amin"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Homemade open-source full-Stokes polarimeter based on division of amplitude"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-05-10
+url: "https://github.com/Jorgeamin/Stokes-polarimeter"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "del Río-Lima"
+    given-names: "Alejandra"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Gutiérrez-Valdés"
+    given-names: "Andrés"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Mojica-Casique"
+    given-names: "Cristian"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ballesteros-Flores"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Villanueva-Reyes"
+    given-names: "Itzel Alejandra"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Colín-Rodríguez"
+    given-names: "Ricardo"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Gardea-Flores"
+    given-names: "Carlos Alberto"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Poveda-Cuevas"
+    given-names: "Freddy Jackson"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Seman"
+    given-names: "Jorge Amin"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 5
+  start: 1 # First page number
+  end: 18 # Last page number
+  title: "Homemade open-source full-Stokes polarimeter based on division of amplitude"
+  issue: 1
+  volume: 1
+  year: 2024
