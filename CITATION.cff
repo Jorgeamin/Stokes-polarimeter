@@ -27,7 +27,7 @@ authors:
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Seman"
   given-names: "Jorge Amin"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0003-1473-8869"
 title: "Homemade open-source full-Stokes polarimeter based on division of amplitude"
 version: 1.0.0
 doi: 10.1364/opticaopen.25749618
@@ -62,7 +62,7 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: "Seman"
     given-names: "Jorge Amin"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-1473-8869"
   doi: "10.1364/opticaopen.25749618"
   journal: "Journal Title"
   month: 5
